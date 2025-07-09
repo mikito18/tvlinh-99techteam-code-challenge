@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Token Swap",
+    "loading": "Loading...",
+    "selectLanguage": "Select Language"
+  },
+  "swap": {
+    "title": "Swap Tokens",
+    "from": "From",
+    "to": "To",
+    "amount": "Amount",
+    "enterAmount": "Enter amount",
+    "swapTokens": "Swap Tokens",
+    "swapping": "Swapping...",
+    "calculating": "Calculating...",
+    "processing": "Processing...",
+    "expectedOutput": "Expected Output",
+    "exchangeRate": "Exchange Rate",
+    "exchangeRateCalculating": "Exchange rate calculating...",
+    "processingTransaction": "Processing transaction...",
+    "pleaseWait": "Please wait a moment"
+  },
+  "button": {
+    "swap": "Swap",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "form": {
+    "validation": {
+      "amountRequired": "Token amount is required",
+      "amountMustBePositive": "Amount must be greater than 0",
+      "invalidAmount": "Invalid amount"
+    }
+  },
+  "token": {
+    "loading": "Loading tokens...",
+    "error": "Error loading token data",
+    "notFound": "No tokens found",
+    "search": "Search tokens...",
+    "price": "Price",
+    "usd": "USD"
+  },
+  "transaction": {
+    "success": "Successfully swapped {{fromAmount}} {{fromToken}} to {{toAmount}} {{toToken}}!",
+    "failed": "Transaction failed. Please try again later.",
+    "unexpectedError": "An unexpected error occurred. Please try again.",
+    "sameToken": "From token and to token must be different"
+  },
+  "language": {
+    "english": "English",
+    "vietnamese": "Vietnamese"
+  },
+  "nav": {
+    "swap": "Swap",
+    "priceHistory": "Price History"
+  },
+  "priceHistory": {
+    "title": "Price History",
+    "subtitle": "Explore {{count}} cryptocurrencies price data",
+    "loading": "Loading price data...",
+    "loadError": "Failed to load price data. Please try again.",
+    "retry": "Retry",
+    "currencies": "Currencies",
+    "searchCurrencies": "Search currencies...",
+    "noCurrenciesFound": "No currencies found",
+    "topPerformers": "Top Performers",
+    "records": "records",
+    "selectCurrency": "Select a currency to view its price history",
+    "priceChart": "Price Chart",
+    "range": "Range",
+    "priceRange": "Price Range",
+    "periodChange": "Period Change",
+    "dataPoints": "data points",
+    "lastUpdate": "Last update",
+    "noData": "No price data available",
+    "highestPrice": "Highest Price",
+    "lowestPrice": "Lowest Price"
+  }
+}

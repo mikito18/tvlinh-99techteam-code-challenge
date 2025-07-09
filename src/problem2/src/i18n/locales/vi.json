@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Hoán Đổi Token",
+    "loading": "Đang tải...",
+    "selectLanguage": "Chọn Ngôn Ngữ"
+  },
+  "swap": {
+    "title": "Hoán Đổi Token",
+    "from": "Từ",
+    "to": "Đến",
+    "amount": "Số lượng",
+    "enterAmount": "Nhập số lượng",
+    "swapTokens": "Hoán Đổi Token",
+    "swapping": "Đang hoán đổi...",
+    "calculating": "Đang tính toán...",
+    "processing": "Đang xử lý...",
+    "expectedOutput": "Kết Quả Dự Kiến",
+    "exchangeRate": "Tỷ Giá Hối Đoái",
+    "exchangeRateCalculating": "Đang tính tỷ giá...",
+    "processingTransaction": "Đang xử lý giao dịch...",
+    "pleaseWait": "Vui lòng đợi trong giây lát"
+  },
+  "button": {
+    "swap": "Hoán Đổi",
+    "cancel": "Hủy",
+    "confirm": "Xác Nhận"
+  },
+  "form": {
+    "validation": {
+      "amountRequired": "Số lượng token không được để trống",
+      "amountMustBePositive": "Số lượng phải lớn hơn 0",
+      "invalidAmount": "Số lượng không hợp lệ"
+    }
+  },
+  "token": {
+    "loading": "Đang tải token...",
+    "error": "Lỗi tải dữ liệu token",
+    "notFound": "Không tìm thấy token",
+    "search": "Tìm token...",
+    "price": "Giá",
+    "usd": "USD"
+  },
+  "transaction": {
+    "success": "Đã hoán đổi thành công {{fromAmount}} {{fromToken}} thành {{toAmount}} {{toToken}}!",
+    "failed": "Giao dịch thất bại. Vui lòng thử lại sau.",
+    "unexpectedError": "Đã xảy ra lỗi không xác định. Vui lòng thử lại.",
+    "sameToken": "Token gửi và token nhận phải khác nhau"
+  },
+  "language": {
+    "english": "English",
+    "vietnamese": "Tiếng Việt"
+  },
+  "nav": {
+    "swap": "Hoán đổi",
+    "priceHistory": "Lịch sử giá"
+  },
+  "priceHistory": {
+    "title": "Lịch sử giá tiền",
+    "subtitle": "Khám phá dữ liệu giá của {{count}} loại tiền điện tử",
+    "loading": "Đang tải dữ liệu giá...",
+    "loadError": "Tải dữ liệu giá thất bại. Vui lòng thử lại.",
+    "retry": "Thử lại",
+    "currencies": "Đồng tiền",
+    "searchCurrencies": "Tìm kiếm đồng tiền...",
+    "noCurrenciesFound": "Không tìm thấy đồng tiền nào",
+    "topPerformers": "Hiệu suất hàng đầu",
+    "records": "bản ghi",
+    "selectCurrency": "Chọn một đồng tiền để xem lịch sử giá",
+    "priceChart": "Biểu đồ giá",
+    "range": "Khoảng",
+    "priceRange": "Khoảng giá",
+    "periodChange": "Thay đổi",
+    "dataPoints": "điểm dữ liệu",
+    "lastUpdate": "Cập nhật cuối",
+    "noData": "Không có dữ liệu giá",
+    "highestPrice": "Giá cao nhất",
+    "lowestPrice": "Giá thấp nhất"
+  }
+}
